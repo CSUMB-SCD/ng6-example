@@ -1,6 +1,9 @@
 {
   "name": "ng6",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "engines": {
+    "node" : "10.9.0"
+  },
   "scripts": {
     "postinstall": "ng build --aot --prod",
     "ng": "ng",
